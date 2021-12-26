@@ -1,3 +1,12 @@
 [submodule "product_service"]
 	path = product_service
 	url = git@github.com:sardortoshkentov/product_service.git
+[submodule "api"]
+	path = api
+	url = git@github.com:sardortoshkentov/api.git
+[submodule "user_service"]
+	path = user_service
+	url = git@github.com:sardortoshkentov/user_service.git
+[submodule "protos"]
+	path = protos
+	url = git@github.com:sardortoshkentov/protos.git
